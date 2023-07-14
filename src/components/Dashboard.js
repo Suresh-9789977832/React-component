@@ -11,7 +11,7 @@ function Dashboard({result,setResult}) {
                isprogress:true
             },
             { Color:"success",
-            Title:"Earnings (Annual)" ,
+            Title:"Earnings (Annual)",
             Amount:"$215,000",
             Icon:"fa-dollar-sign",
             isprogress:true

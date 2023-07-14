@@ -11067,7 +11067,7 @@ form.user .btn-user {
     clip: rect(42px, 9999px, 84px, 0);
   }
   45% {
-    clip: rect(56px, 9999px, 25px, 0);
+    clip: rect(56px, 9999px, 25px, 0) ;
   }
   50% {
     clip: rect(46px, 9999px, 14px, 0);
