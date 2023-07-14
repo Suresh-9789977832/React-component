@@ -19,7 +19,7 @@ function Dashboard({result,setResult}) {
             {  Color:"info",
             Title:"Tasks",
             Amount:"50%",
-            Icon:"fa-clipboard-list",
+            Icon:"fa-clipboard-list" ,
             isprogress:false
             },
             {  Color:"warning",
