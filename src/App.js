@@ -8,7 +8,7 @@ function App() {
   let [result,setResult]=useState([
     {
       name:"suresh",
-      photo:<img src='./Images/pic.jpg'/>,
+      photo:<img src='./Images/pic.jpg'/> ,
       email:"sanddy@gmail.com",
       mobile:"9789977832",
       address:"No:10/a, Kamarajar Salai Chennai",
