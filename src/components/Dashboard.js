@@ -7,7 +7,7 @@ function Dashboard({result,setResult}) {
             {  Color:"primary",
                Title:"Earning (Monthly)",
                Amount:"$40,000",
-               Icon:"fa-calendar" ,
+               Icon:"fa-calendar",
                isprogress:true
             },
             { Color:"success",

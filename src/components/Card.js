@@ -31,7 +31,7 @@ function Card({data}) {
                                          
                             </div>
                             <div className="col-auto">
-                                <i className={`fas ${data.Icon} fa-2x text-gray-300`}> </i> 
+                                <i className={`fas ${data.Icon} fa-2x text-gray-300`}></i> 
                             </div>
                         </div>
                     </div>
