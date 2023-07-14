@@ -11,7 +11,7 @@ function App() {
       photo:<img src='./Images/pic.jpg'/>,
       email:"sanddy@gmail.com",
       mobile:"9789977832",
-      address:"No:10/a, Kamarajar Salai Chennai" ,
+      address:"No:10/a, Kamarajar Salai Chennai",
       batch:"B46WET"
     },
     {
